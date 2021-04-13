@@ -1,0 +1,10 @@
+.game-container{
+    width: 40%;
+    height: 250px;
+}
+.game-container .custom-row{
+    height: 30%;
+    color: #DA4F17;
+    font-size: 50px;
+    font-weight: 600;
+}
